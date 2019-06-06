@@ -2,6 +2,8 @@
 
 Create a [Nuxt.js](https://ja.nuxtjs.org/) blog powered by [Contentful](https://www.contentful.com).
 
+![The index page of the starter blog](screenshot.png "The index page of the starter blog")
+
 ## Build Setup
 
 ``` bash
