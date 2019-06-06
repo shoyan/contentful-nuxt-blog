@@ -1,12 +1,15 @@
-# contentful-nuxt-sample
+# contentful-nuxt-blog
 
-> Nuxt.js project
+Create a [Nuxt.js](https://ja.nuxtjs.org/) blog powered by [Contentful](https://www.contentful.com).
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 $ npm install # Or yarn install
+
+# create .contentful.json and edit it
+$ cp .contentful.json.sample .contentful.json
 
 # serve with hot reload at localhost:3000
 $ npm run dev
@@ -18,6 +21,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
